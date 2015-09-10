@@ -1,1 +1,3 @@
 Ceci est un fichier nommé fichier 1
+***
+Ceci est une modification du fichier1.txt dans le but de publier un nouveau commit
